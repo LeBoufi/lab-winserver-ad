@@ -162,10 +162,10 @@ L’objectif est de simuler un réseau d’entreprise fonctionnel comprenant :
 
 ## Commandes utiles
 
-ipconfig /all
-ping 192.168.1.1
-nslookup monlab.local
-gpupdate /force
-gpresult /r
-net share
-net use
+- ipconfig /all
+- ping 192.168.1.1
+- nslookup monlab.local
+- gpupdate /force
+- gpresult /r
+- net share
+- net use
