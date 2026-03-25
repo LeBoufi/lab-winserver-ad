@@ -1,4 +1,4 @@
-# 🖥️ Active Directory Lab – Déploiement d’une infrastructure Windows Server
+# Active Directory Lab – Déploiement d’une infrastructure Windows Server
 
 ## Description :
 
